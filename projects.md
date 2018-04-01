@@ -2,7 +2,29 @@
 layout: default
 ---
 
+## <img align="left" src="/src/star_icon.png"> Heathrow Airport Guide
+Android application of Heathrow Airport, London. I managed Android team to deliver best value to client. 
 
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, MVP, MVVM, RxJava |
+| Time      | May 2017 – Ongoing |
+| Development Team Size | 3 |
+| Work Title | Android Tech Lead |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.baa.heathrow&hl=en)*
+
+## GSK MyQuit 
+Android application for users of Glaxo Smith Kline products. I took part in the refactoring of the application before delivery of source code to client.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, EventBus |
+| Time      | Jun 2017 – August 2017 |
+| Development Team Size | 1 |
+| Work Title | Developer |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.baa.heathrow&hl=en)*
 
 ## News with Voice (Sesli Haber)
 Open source speech enabled news application developed by my students.   
@@ -12,6 +34,7 @@ Open source speech enabled news application developed by my students.
 | Time      | December 2016 – February 2017 |
 | Development Team Size | 13 |
 | Work Title | Project Manager / Developer |
+| Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.seslihaber&hl=tr)*
 
@@ -25,6 +48,7 @@ Open source assistant application for parody purposes developed by my students.
 | Time      | February 2016 – May 2016 |
 | Development Team Size | 11 |
 | Work Title | Project Manager / Developer |
+| Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.stupid)*
 
@@ -38,6 +62,7 @@ Open source dictionary application which can make translation between 21 languag
 | Time      | September 2015 – January 2016 |
 | Development Team Size | 8 |
 | Work Title | Project Manager / Developer |
+| Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.gictionary)*
 
@@ -52,9 +77,10 @@ Natural dialog showcase app for sales presentations.
 | Project Size (SLOC) | 4.1K |
 | Development Team Size | 1 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 **Video:** 
-[![ChatBox Demo](https://img.youtube.com/vi/_1ZYPybfksg/0.jpg)](https://www.youtube.com/watch?v=_1ZYPybfksg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1ZYPybfksg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Online TTS & SR Libraries
 Online TTS & SR libraries. Packaged libraries for Android.
@@ -64,6 +90,7 @@ Online TTS & SR libraries. Packaged libraries for Android.
 | Time | June 2016 – September 2016 |
 | Development Team Size | 3 |
 | Work Title | R&D Engineer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 ## Shopping Genie
 Shopping assistant demo.
@@ -74,12 +101,13 @@ Shopping assistant demo.
 | Project Size (SLOC) | 15.4K |
 | Development Team Size | 1 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 **Video:** 
-[![Shopping Genie](https://img.youtube.com/vi/W549HoL1Fz8/0.jpg)](https://www.youtube.com/watch?v=W549HoL1Fz8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W549HoL1Fz8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Mobile Communication Assistant – TUBITAK Project
-Chat application for deaf people. This project are managed by TUBITAK which is the biggest scientific committee of Turkey.
+## Mobile Communication Assistant
+Chat application for deaf people. This project is managed by TUBITAK which is the biggest scientific committee of Turkey.
 
 | ------------- |:-------------:|
 | Platform and Technologies | Android, Realtime Chat, Background Services |
@@ -87,9 +115,13 @@ Chat application for deaf people. This project are managed by TUBITAK which is t
 | Project Size (SLOC) | 4.5K |
 | Development Team Size | 1 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
-## Mobile Assistant (Bilge) – TUBITAK Project	
-Turkish mobile assistant application. This project are managed by TUBITAK which is the biggest scientific committee of Turkey.
+**Video:** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PsoJzz3-7sE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## <img align="left" src="/src/star_icon.png"> Mobile Assistant (Bilge)	
+Turkish mobile assistant application. This project is managed by TUBITAK which is the biggest scientific committee of Turkey. After this project successfully finished Arcelik, one of the biggest household appliances manufacturer from Turkey, bought product and use technology for their home assistant. 
 
 | ------------- |:-------------:|
 | Platform and Technologies | Android, Accessibility, Speech Recognition, Text to Speech, Natural Language Processing |
@@ -97,11 +129,14 @@ Turkish mobile assistant application. This project are managed by TUBITAK which 
 | Project Size (SLOC) | 15.2K |
 | Development Team Size | 1 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
+
+![src](/src/arcelik_assistant.png)
 
 **Video:** 
-[![Mobile Assistant](https://img.youtube.com/vi/0jDSAOepkik/0.jpg)](https://www.youtube.com/watch?v=0jDSAOepkik)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0jDSAOepkik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Sestek SR Engine & Sestek TTS Engine
+## <img align="left" src="/src/star_icon.png"> Sestek SR Engine & Sestek TTS Engine
 Embedded speech recognition & text to speech engines for Android OS.
 
 | ------------- |:-------------:|
@@ -110,6 +145,7 @@ Embedded speech recognition & text to speech engines for Android OS.
 | Project Size (SLOC) | 4.8K |
 | Development Team Size | 1 |
 | Work Title | R&D Engineer / Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 **Sestek SR Engine:**
 ![src](/src/im8.png)
@@ -125,11 +161,12 @@ Turkish speech recognition applications designed for corporate demos.
 | Project Size (SLOC) | 1.5K |
 | Development Team Size | 1 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 ![src](/src/im9.png)
 
-## Social Media Mobile 	
-Social media tracking application for corporate firms. Application is used by famous banks of Turkey like YapıKrediBank, Aktif Bank and OdeaBank.
+## <img align="left" src="/src/star_icon.png"> Social Media Mobile 	
+Social media tracking application for corporate firms. Application is used by famous banks of Turkey like Yapı Kredi Bank, Aktif Bank and Odea Bank.
 
 | ------------- |:-------------:|
 | Platform and Technologies | Android, SOAP |
@@ -137,17 +174,22 @@ Social media tracking application for corporate firms. Application is used by fa
 | Project Size (SLOC) | 24.8K |
 | Development Team Size | 2 |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
 **Video:** 
-[![Social Media Mobile](https://img.youtube.com/vi/mxj3O4R0rO4/0.jpg)](https://www.youtube.com/watch?v=mxj3O4R0rO4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxj3O4R0rO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.sestek.smm&hl=tr)*
 
 ## Call with Voice
-Calling application via speech recognition. Query contact list with speech recognition result and make a call. This app deleted from Google Play by SESTEK.
+Voice enabled contact application. Query contact list with offline speech recognition result and make a call. This app deleted from Google Play by SESTEK.
 
 | ------------- |:-------------:|
 | Platform and Technologies | Android, Offline Speech Recognition |
 | Time | September 2014 – September 2015 |
 | Development Team Size | Project is developed by another developer. My job was maintaining it. |
 | Work Title | Developer |
+| Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
+
+
+

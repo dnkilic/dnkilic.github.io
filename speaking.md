@@ -1,13 +1,10 @@
 ---
 layout: default
 ---
-## 2018
-
-- [ISMEK Informations Science Scholl](http://www.ismek.ist/tr/kurs_icerik.aspx?KursMerkezi=356): Overseas adventure of a Software Engineer, from ISMEK to Cambodia. ([Slides](404.md))
 
 ## 2017
 
-- [Barcamp ASEAN 2017](https://barcamp.asia): Assistive Technologies: How to develop an assistant application? ([Slides](404.md))
+- [Barcamp ASEAN 2017](https://barcamp.asia): Assistive Technologies: How to develop an assistant application? ([Repository](https://github.com/dnkilic/Bong))
 
 ![src](/src/im1.jpg)
 ![src](/src/im2.jpg)
@@ -27,7 +24,7 @@ layout: default
 
 ## 2015 - 2017
 
-- [ISMEK Learn Android in 32 Days](http://www.ismek.ist/tr/branslar.aspx?branscode=1847): During four academic years. ([Materials](404.md)) 
+- [ISMEK Learn Android in 32 Days](http://www.ismek.ist/tr/branslar.aspx?branscode=1847): During four academic years.
 
 ![src](/src/im5.jpg)
 

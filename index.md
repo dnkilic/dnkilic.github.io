@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Mobile developer working [@DMI Phnom Penh Office, Cambodia](https://dminc.com) as an expat. Especially interested in Assistive Technologies, Natural Language Processing, Speech Recognition and Text to Speech.
+> Expat working [@DMI Phnom Penh Office, Cambodia](https://dminc.com) as an Android Developer. Especially interested in Assistive Technologies, Natural Language Processing, Speech Recognition and Text to Speech.
 
 >I seek work assignments that challenge my skills, permit to learn new ones and to use innovative talents in mobile technologies.
 
@@ -12,7 +12,7 @@ layout: default
 
 ## Other
 
-- [Resume](https://docs.google.com/document/d/170if89bfM-EiK6BHlTaQO5t1YRmRe9LtM16cT4f-yzE/edit?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1iExQF6us6rEM0PRiGMnc9HVaGkmf33rp/view?usp=sharing)
 - [Speaking & Teaching]({{ site.url }}/speaking)
 - [Projects]({{ site.url }}/projects)
 - [Contact Me]({{ site.url }}/contact)
