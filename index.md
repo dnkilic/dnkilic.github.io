@@ -17,5 +17,7 @@ layout: default
 - [Projects]({{ site.url }}/projects)
 - [Contact Me]({{ site.url }}/contact)
 
+<img src="/src/image.jpeg" alt="Drawing" style="width: 200px;"/>
+
 <hr>
 *Made with appreciation by @dnkilic based on [Solo](http://chibicode.github.io/solo) and [sroberts](https://github.com/sroberts/sroberts.github.io)*
