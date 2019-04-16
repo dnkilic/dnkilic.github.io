@@ -7,7 +7,7 @@ layout: default
 > Quality focused Android developer & Flutter Enthusiast with +5 years full time work experience and 2 years part time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in mobile technologies. 
 
 | <i class="fa fa-github" aria-hidden="true"></i> | <i class="fa fa-medium" aria-hidden="true"></i> | <i class="fa fa-linkedin" aria-hidden="true"></i> | <img src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg" >
-|:-----------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------:|
+|:-----------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
 |     [code](https://github.com/dnkilic)     |    [blog](https://medium.com/@dnkilic)    |    [professional](https://www.linkedin.com/in/dnkilic/)    |    [hackerrank](https://www.hackerrank.com/dnkilic)    |
 
 ## Other
