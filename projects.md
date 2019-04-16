@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## <img align="left" src="/src/star_icon.png"> Heathrow Airport Guide
+## <img align="left" src="/src/star_icon.png"> LHR London Heathrow Airport
 Android application of Heathrow Airport, London. I managed Android team to deliver best value to client. 
 
 | ------------- |:-------------:|
@@ -14,17 +14,52 @@ Android application of Heathrow Airport, London. I managed Android team to deliv
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.baa.heathrow&hl=en)*
 
+## Endzone
+Android application for US parole officers which is map enabled and users are able to perform some actions about paroles. I was working this project to improve its quality.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, Google Map, Push to Talk, Chat |
+| Time      | Jan 2019 – Apr 2019 |
+| Development Team Size | 5 |
+| Work Title | Android Tech Lead |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+
+## HP DesignJet Virtual Demo
+Android application of HP to show specs of HP DesignJet printers. I managed Android team to deliver best value to client.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, MVVM, RxJava, Kotlin, Offline, Localization, Room |
+| Time      | Sep 2018 – Jan 2019 |
+| Development Team Size | 2 |
+| Work Title | Android Tech Lead |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.DesignJet_VirtualDemo&hl=en_US)*
+
+## HP PageWide XL Virtual Demo
+Android application of HP to show specs of HP PageWide printers. I managed Android team to deliver best value to client.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, MVVM, RxJava, Kotlin, Offline, Room |
+| Time      | Jan 2019 – Feb 2019 |
+| Development Team Size | 2 |
+| Work Title | Android Tech Lead |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.pwxlhpprinter)*
+
 ## GSK MyQuit 
 Android application for users of Glaxo Smith Kline products. I took part in the refactoring of the application before delivery of source code to client.
 
 | ------------- |:-------------:|
-| Platform and Technologies   | Android, EventBus |
+| Platform and Technologies   | Android, EventBus, Charles, Refactoring |
 | Time      | Jun 2017 – August 2017 |
 | Development Team Size | 1 |
 | Work Title | Developer |
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
-*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.baa.heathrow&hl=en)*
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.gsk.myquit&hl=tr)*
 
 ## News with Voice (Sesli Haber)
 Open source speech enabled news application developed by my students.   
@@ -50,8 +85,6 @@ Open source assistant application for parody purposes developed by my students.
 | Work Title | Project Manager / Developer |
 | Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
-*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.stupid)*
-
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/dnkilic/android-gerzek.git)
 
 ## Global Dictionary
@@ -63,8 +96,6 @@ Open source dictionary application which can make translation between 21 languag
 | Development Team Size | 8 |
 | Work Title | Project Manager / Developer |
 | Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
-
-*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.gictionary)*
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/dnkilic/android-gictionary.git)
 

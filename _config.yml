@@ -20,9 +20,6 @@ plugins_dir:
 #   - name: LinkedIn
 #     url: https://www.linkedin.com/in/dnkilic
 #     icon: linkedin
-#   - name: Google
-#     url: https://plus.google.com/107848665104278257250?rel=author
-#     icon: google-plus
 #   - name: GitHub
 #     url: https://github.com/dnkilic
 #     icon: github
