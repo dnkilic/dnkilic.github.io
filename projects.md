@@ -104,8 +104,8 @@ Android application for users of Glaxo Smith Kline products. I took part in the 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.gsk.myquit&hl=en)*
 
 ## Student Projects
-News with Voice (Sesli Haber), open source speech enabled news application developed by my students. \
-Idiot Assistant (Gerzek), open source assistant application for parody purposes developed by my students. \
+News with Voice (Sesli Haber), open source speech enabled news application developed by my students.
+Idiot Assistant (Gerzek), open source assistant application for parody purposes developed by my students.
 Global Dictionary, open source dictionary application which can make translation between 21 languages developed by my students.
 
 | ------------- |:-------------:|
