@@ -14,7 +14,7 @@ Highly customizable white label Socio Event App. I redesigned Welcome, Event Det
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.atsocio.socio&hl=en)*
 
-##### Note: Since this is a white label product, I technically contributed more than 500 apps which some of the clients are Google, Nike, Microsoft, Hyundai. [There](https://play.google.com/store/apps/developer?id=Socio+Labs+Inc&hl=en) is a limited list of those apps.
+**Note: Since this is a white label product, I technically contributed more than 500 apps which some of the clients are Google, Nike, Microsoft, Hyundai. [There](https://play.google.com/store/apps/developer?id=Socio+Labs+Inc&hl=en) is a limited list of those apps.**
 
 ## Lead Retrieval by Socio
 Lead retrieval app to capture and process leads at events. I redesigned Social Accounts screen.
@@ -40,6 +40,8 @@ Android application of Heathrow Airport, London. I managed Android team to deliv
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.baa.heathrow&hl=en)*
 
+**Note: This is my career record regarding to Google Play installations (100,000+)**
+
 ## Endzone
 Android application for US parole officers which is map enabled and users are able to perform some actions about paroles. I was working this project to improve its quality.
 
@@ -51,8 +53,8 @@ Android application for US parole officers which is map enabled and users are ab
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
 **Video:**
-<iframe width="560" height="315" src="https://vimeo.com/234691886" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=r0WU_R0amrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://player.vimeo.com/video/234691886" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yukmKdjcX1k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## HP Latex Virtual Demo
 Android application of HP to show specs of HP Latex printers. I managed Android team to deliver best value to client.
@@ -103,8 +105,8 @@ Android application for users of Glaxo Smith Kline products. I took part in the 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.gsk.myquit&hl=en)*
 
 ## Student Projects
-News with Voice (Sesli Haber), open source speech enabled news application developed by my students.
-Idiot Assistant (Gerzek), open source assistant application for parody purposes developed by my students.
+News with Voice (Sesli Haber), open source speech enabled news application developed by my students. \
+Idiot Assistant (Gerzek), open source assistant application for parody purposes developed by my students. \
 Global Dictionary, open source dictionary application which can make translation between 21 languages developed by my students.
 
 | ------------- |:-------------:|
@@ -115,11 +117,8 @@ Global Dictionary, open source dictionary application which can make translation
 | Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.seslihaber&hl=tr)*
-[![Sesli Haber Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-sesli-haber.git)
-[![Gerzek Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-gerzek.git)
-[![Global Dictionary Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-gictionary.git)
 
-##### Note: I do not have time to maintain those projects, that's why some of them are removed from Google Play.
+**Note: I do not have time to maintain those projects, that's why some of them are removed from Google Play.**
 
 ## ChatBox Demo
 Natural dialog showcase app for sales presentations.
