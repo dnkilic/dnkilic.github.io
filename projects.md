@@ -2,12 +2,38 @@
 layout: default
 ---
 
-## <img align="left" src="/src/star_icon.png"> LHR London Heathrow Airport
-Android application of Heathrow Airport, London. I managed Android team to deliver best value to client. 
+## Socio Event App
+Highly customizable white label Socio Event App. I redesigned Welcome, Event Detail, Home and Search screens.
 
 | ------------- |:-------------:|
-| Platform and Technologies   | Android, MVP, MVVM, RxJava |
-| Time      | May 2017 – Ongoing |
+| Platform and Technologies   | Android, VIPER, Dagger2, RxJava2, Java, Kotlin |
+| Time      | Nov 2019 – Ongoing |
+| Development Team Size | 3 |
+| Work Title | Senior Android Developer |
+| Company | *[![src](/src/socio_logo.png)](https://socio.events/)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.atsocio.socio&hl=en)*
+
+##### Note: Since this is a white label product, I technically contributed more than 500 apps which some of the clients are Google, Nike, Microsoft, Hyundai. [There](https://play.google.com/store/apps/developer?id=Socio+Labs+Inc&hl=en) is a limited list of those apps.
+
+## Lead Retrieval by Socio
+Lead retrieval app to capture and process leads at events. I redesigned Social Accounts screen.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, VIPER, Dagger2, RxJava2, Kotlin |
+| Time      | Nov 2019 – Ongoing |
+| Development Team Size | 3 |
+| Work Title | Senior Android Developer |
+| Company | *[![src](/src/socio_logo.png)](https://socio.events/)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=events.socio.leadretrieval&hl=en)*
+
+## <img align="left" src="/src/star_icon.png"> LHR London Heathrow Airport
+Android application of Heathrow Airport, London. I managed Android team to deliver best value to client.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, MVP, MVVM, RxJava2, Dagger2, Architecture Components, JetPack, Google Wear OS |
+| Time      | May 2017 – Nov 2019 |
 | Development Team Size | 3 |
 | Work Title | Android Tech Lead |
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
@@ -18,24 +44,27 @@ Android application of Heathrow Airport, London. I managed Android team to deliv
 Android application for US parole officers which is map enabled and users are able to perform some actions about paroles. I was working this project to improve its quality.
 
 | ------------- |:-------------:|
-| Platform and Technologies   | Android, Google Map, Push to Talk, Chat |
+| Platform and Technologies   | Android, Google Map, Push to Talk, Chat, WebRTC |
 | Time      | Jan 2019 – Apr 2019 |
 | Development Team Size | 5 |
 | Work Title | Android Tech Lead |
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
+**Video:**
+<iframe width="560" height="315" src="https://vimeo.com/234691886" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=r0WU_R0amrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## HP DesignJet Virtual Demo
-Android application of HP to show specs of HP DesignJet printers. I managed Android team to deliver best value to client.
+## HP Latex Virtual Demo
+Android application of HP to show specs of HP Latex printers. I managed Android team to deliver best value to client.
 
 | ------------- |:-------------:|
-| Platform and Technologies   | Android, MVVM, RxJava, Kotlin, Offline, Localization, Room |
-| Time      | Sep 2018 – Jan 2019 |
+| Platform and Technologies   | Android, MVVM, RxJava, Kotlin, Offline, Room |
+| Time      | Feb 2019 – Mar 2019 |
 | Development Team Size | 2 |
 | Work Title | Android Tech Lead |
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
-*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.DesignJet_VirtualDemo&hl=en_US)*
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.HPLatexVDemo&hl=en)*
 
 ## HP PageWide XL Virtual Demo
 Android application of HP to show specs of HP PageWide printers. I managed Android team to deliver best value to client.
@@ -49,7 +78,19 @@ Android application of HP to show specs of HP PageWide printers. I managed Andro
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.pwxlhpprinter)*
 
-## GSK MyQuit 
+## HP DesignJet Virtual Demo
+Android application of HP to show specs of HP DesignJet printers. I managed Android team to deliver best value to client.
+
+| ------------- |:-------------:|
+| Platform and Technologies   | Android, MVVM, RxJava, Kotlin, Offline, Localization, Room |
+| Time      | Sep 2018 – Jan 2019 |
+| Development Team Size | 2 |
+| Work Title | Android Tech Lead |
+| Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
+
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hp.DesignJet_VirtualDemo&hl=en_US)*
+
+## GSK MyQuit
 Android application for users of Glaxo Smith Kline products. I took part in the refactoring of the application before delivery of source code to client.
 
 | ------------- |:-------------:|
@@ -59,48 +100,29 @@ Android application for users of Glaxo Smith Kline products. I took part in the 
 | Work Title | Developer |
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
-*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.gsk.myquit&hl=tr)*
+*[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.gsk.myquit&hl=en)*
 
-## News with Voice (Sesli Haber)
-Open source speech enabled news application developed by my students.   
+## Student Projects
+News with Voice (Sesli Haber), open source speech enabled news application developed by my students.
+Idiot Assistant (Gerzek), open source assistant application for parody purposes developed by my students.
+Global Dictionary, open source dictionary application which can make translation between 21 languages developed by my students.
 
 | ------------- |:-------------:|
-| Platform and Technologies   | Android, SR, TTS, RSS, Live Stream, Services, Notifications |
-| Time      | December 2016 – February 2017 |
-| Development Team Size | 13 |
-| Work Title | Project Manager / Developer |
+| Platform and Technologies   | Android, SR, TTS, RSS, Live Stream, Assistive Technologies, Services, Notifications, REST, GlosbeAPI |
+| Time      | September 2015 – February 2017 |
+| Development Team Size | 8-13 |
+| Work Title | Project Manager / Android Developer |
 | Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.dnkilic.seslihaber&hl=tr)*
+[![Sesli Haber Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-sesli-haber.git)
+[![Gerzek Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-gerzek.git)
+[![Global Dictionary Repository](/src/open_source.jpg)](https://github.com/dnkilic/android-gictionary.git)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/dnkilic/android-sesli-haber.git)
+##### Note: I do not have time to maintain those projects, that's why some of them are removed from Google Play.
 
-## Idiot Assistant (Gerzek)
-Open source assistant application for parody purposes developed by my students.   
-
-| ------------- |:-------------:|
-| Platform and Technologies   | Android, SR, TTS, Assistive Technologies |
-| Time      | February 2016 – May 2016 |
-| Development Team Size | 11 |
-| Work Title | Project Manager / Developer |
-| Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/dnkilic/android-gerzek.git)
-
-## Global Dictionary
-Open source dictionary application which can make translation between 21 languages developed by my students.   
-
-| ------------- |:-------------:|
-| Platform and Technologies   | Android, REST, GlosbeAPI |
-| Time      | September 2015 – January 2016 |
-| Development Team Size | 8 |
-| Work Title | Project Manager / Developer |
-| Company | *[![src](/src/ismek_logo.jpg)](http://www.ismek.ist)* |
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/dnkilic/android-gictionary.git)
-
-## ChatBox Demo	
-Natural dialog showcase app for sales presentations. 
+## ChatBox Demo
+Natural dialog showcase app for sales presentations.
 
 | ------------- |:-------------:|
 | Platform and Technologies   | Android, Natural Language Processing |
@@ -110,7 +132,7 @@ Natural dialog showcase app for sales presentations.
 | Work Title | Developer |
 | Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
-**Video:** 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_1ZYPybfksg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Online TTS & SR Libraries
@@ -134,7 +156,7 @@ Shopping assistant demo.
 | Work Title | Developer |
 | Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
-**Video:** 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W549HoL1Fz8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Mobile Communication Assistant
@@ -148,11 +170,11 @@ Chat application for deaf people. This project is managed by TUBITAK which is th
 | Work Title | Developer |
 | Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
-**Video:** 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PsoJzz3-7sE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## <img align="left" src="/src/star_icon.png"> Mobile Assistant (Bilge)	
-Turkish mobile assistant application. This project is managed by TUBITAK which is the biggest scientific committee of Turkey. After this project successfully finished Arcelik, one of the biggest household appliances manufacturer from Turkey, bought product and use technology for their home assistant. 
+## <img align="left" src="/src/star_icon.png"> Mobile Assistant (Bilge)
+Turkish mobile assistant application. This project is managed by TUBITAK which is the biggest scientific committee of Turkey. After this project successfully finished Arcelik, one of the biggest household appliances manufacturer from Turkey, bought product and use technology for their home assistant.
 
 | ------------- |:-------------:|
 | Platform and Technologies | Android, Accessibility, Speech Recognition, Text to Speech, Natural Language Processing |
@@ -164,7 +186,7 @@ Turkish mobile assistant application. This project is managed by TUBITAK which i
 
 ![src](/src/arcelik_assistant.png)
 
-**Video:** 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0jDSAOepkik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## <img align="left" src="/src/star_icon.png"> Sestek SR Engine & Sestek TTS Engine
@@ -196,7 +218,7 @@ Turkish speech recognition applications designed for corporate demos.
 
 ![src](/src/im9.png)
 
-## <img align="left" src="/src/star_icon.png"> Social Media Mobile 	
+## <img align="left" src="/src/star_icon.png"> Social Media Mobile
 Social media tracking application for corporate firms. Application is used by famous banks of Turkey like Yapı Kredi Bank, Aktif Bank and Odea Bank.
 
 | ------------- |:-------------:|
@@ -207,7 +229,7 @@ Social media tracking application for corporate firms. Application is used by fa
 | Work Title | Developer |
 | Company | *[![src](/src/sestek_logo.png)](http://www.sestek.com)* |
 
-**Video:** 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxj3O4R0rO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.sestek.smm&hl=tr)*
