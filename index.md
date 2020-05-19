@@ -2,35 +2,35 @@
 layout: default
 ---
 
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="155px" border="1px" /></p>
+<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
+<div style="clear: left;">&nbsp;</div>
+
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="150px" border="1px" /></p>
+<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
+<div style="clear: left;">&nbsp;</div>
+
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="145px" border="1px" /></p>
+<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
+<div style="clear: left;">&nbsp;</div>
+
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="140px" border="1px" /></p>
+<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
+<div style="clear: left;">&nbsp;</div>
+
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="135px" border="1px" /></p>
+<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
+<div style="clear: left;">&nbsp;</div>
+
 <p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="120px" border="1px" /></p>
 <p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
 <div style="clear: left;">&nbsp;</div>
 
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="100px" border="1px" /></p>
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="125px" border="1px" /></p>
 <p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
 <div style="clear: left;">&nbsp;</div>
 
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="110px" border="1px" /></p>
-<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
-<div style="clear: left;">&nbsp;</div>
-
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="105px" border="1px" /></p>
-<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
-<div style="clear: left;">&nbsp;</div>
-
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="115px" border="1px" /></p>
-<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
-<div style="clear: left;">&nbsp;</div>
-
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="120px" border="1px" /></p>
-<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
-<div style="clear: left;">&nbsp;</div>
-
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="95px" border="1px" /></p>
-<p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
-<div style="clear: left;">&nbsp;</div>
-
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="90px" border="1px" /></p>
+<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="130px" border="1px" /></p>
 <p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
 <div style="clear: left;">&nbsp;</div>
 
