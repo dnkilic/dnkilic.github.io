@@ -43,7 +43,7 @@ Android application of Heathrow Airport, London. I managed Android team to deliv
 **Note: This is my career record regarding to Google Play installations (100,000+)**
 
 ## Endzone
-Android application for US parole officers which is map enabled and users are able to perform some actions about paroles. I was working this project to improve its quality.
+Map enabled android application to manage incidents at prisons, schools or other public spaces. I took part regarding the module related to US parole officers. I was working this project to improve its quality.
 
 | ------------- |:-------------:|
 | Platform and Technologies   | Android, Google Map, Push to Talk, Chat, WebRTC |
@@ -53,8 +53,7 @@ Android application for US parole officers which is map enabled and users are ab
 | Company | *[![src](/src/DMI_logo.png)](https://dminc.com)* |
 
 **Video:**
-<iframe width="560" height="315" src="http://player.vimeo.com/video/234691886" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yukmKdjcX1k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Video About Product](http://player.vimeo.com/video/234691886)
 
 ## HP Latex Virtual Demo
 Android application of HP to show specs of HP Latex printers. I managed Android team to deliver best value to client.
