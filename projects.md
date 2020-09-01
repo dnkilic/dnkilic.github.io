@@ -7,7 +7,7 @@ Highly customizable white label Socio Event App. I redesigned Welcome, Event Det
 
 | ------------- |:-------------:|
 | Platform and Technologies   | Android, VIPER, Dagger2, RxJava2, Java, Kotlin |
-| Time      | Nov 2019 – Ongoing |
+| Time      | Nov 2019 – Aug 2020 |
 | Development Team Size | 3 |
 | Work Title | Senior Android Developer |
 | Company | *[![src](/src/socio_logo.png)](https://socio.events/)* |
@@ -21,7 +21,7 @@ Lead retrieval app to capture and process leads at events. I redesigned Social A
 
 | ------------- |:-------------:|
 | Platform and Technologies   | Android, VIPER, Dagger2, RxJava2, Kotlin |
-| Time      | Nov 2019 – Ongoing |
+| Time      | Nov 2019 – Aug 2020 |
 | Development Team Size | 3 |
 | Work Title | Senior Android Developer |
 | Company | *[![src](/src/socio_logo.png)](https://socio.events/)* |
