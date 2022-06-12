@@ -17,7 +17,7 @@ My name is Doğan (Doaan) Kılıç and I'm a Senior Android Developer with +8 ye
 
 **Connect with me**
 <p align="left">
-<a href="https://twitter.com/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/twitter.png" alt="dnkilic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/linkedin.png" alt="dnkilic" height="30" width="40" /></a>
-<a href="https://medium.com/@dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/medium.png" alt="dnkilic" height="30" width="40" /></a>
-<a href="https://github.com/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/github.png" alt="dnkilic" height="30" width="40" /></a>
+<a href="https://twitter.com/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/twitter.png" alt="dnkilic" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/linkedin.png" alt="dnkilic" height="40" width="40" /></a>
+<a href="https://medium.com/@dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/medium.png" alt="dnkilic" height="40" width="40" /></a>
+<a href="https://github.com/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/github.png" alt="dnkilic" height="40" width="40" /></a>
