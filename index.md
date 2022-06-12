@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<p style="float: left;"><img style="border-width: 2px;" src="/src/profile.JPG" width="155px" border="1px" /></p>
+![](/src/profile.JPG "header")
+
 <p style="text-align: center;">Quality focused <strong>Android Developer</strong> with +5 years of full-time work experience and 2 years of part-time mobile development teaching experience. I seek work assignments that challenge my skills, permit me to learn new ones and to use innovative talents in Modern Android Development.</p>
 <div style="clear: left;">&nbsp;</div>
 
