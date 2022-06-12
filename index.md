@@ -13,7 +13,9 @@ My name is Doğan (Doaan) Kılıç and I'm a Senior Android Developer with +8 ye
 - [Projects]({{ site.url }}/projects)
 - [Contact Me]({{ site.url }}/contact)
 
-🔗 &nbsp;**Connect with me**
+---
+
+**Connect with me**
 <p align="left">
 <a href="https://twitter.com/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/twitter.svg" alt="dnkilic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dnkilic" target="blank"><img align="center" src="https://github.com/dnkilic/dnkilic.github.io/blob/master/src/linkedin.svg" alt="dnkilic" height="30" width="40" /></a>
