@@ -26,3 +26,6 @@ plugins_dir:
 #   - name: Medium
 #     url: https://medium.com/@dnkilic
 #     icon: medium
+#   - name: Twitter
+#     url: https://twitter.com/dnkilic
+#     icon: twitter
