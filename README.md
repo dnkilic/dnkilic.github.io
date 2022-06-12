@@ -1,7 +1,5 @@
 # [dnkilic.github.io](http://dnkilic.github.io)
 
-[![CircleCI](https://circleci.com/gh/sroberts/sroberts.github.io.svg?style=svg)](https://circleci.com/gh/sroberts/sroberts.github.io)
-
 ## Content
 
 - Talks
