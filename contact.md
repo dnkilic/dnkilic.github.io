@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Want to know more? Send me an email at dnkilic@outlook.com
+Want to know more? Send me email at [dnkilic@outlook.com](mailto:dnkilic@outlook.com)
